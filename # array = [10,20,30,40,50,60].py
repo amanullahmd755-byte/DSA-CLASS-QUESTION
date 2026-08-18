@@ -1,0 +1,28 @@
+# array = [10,20,30,40,50,60]
+
+# for i in range(len(array)):
+#     print("\nPosition",i,"data",array[i])
+# print("\nDone")
+
+# index = int(input("Enter the Element you want index of: "))
+# for i in range(len(array)):
+#     if array[i]== index:
+#         print("Position of", index,":",i)
+
+array = [10,20,30,40,50,60]
+
+# for i in range(len(array)):
+#     print("\nPosition", i, "data", array[i])
+#     print("Address of element:", id(array[i]))
+
+# print("\nDone")
+
+# index = int(input("Enter the Element you want index of: "))
+# for i in range(len(array)):
+#     if array[i] == index:
+#         print("Position of", index, ":", i)
+#         print("Address of", index, ":", id(array[i]))
+
+# print(id(array[1]))
+
+print()
