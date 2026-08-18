@@ -27,7 +27,6 @@ This repository focuses on building strong fundamentals in DSA, improving logica
 ## 💻 Languages Used
 
 - Python 🐍
-- Java ☕ *(if applicable)*
 
 ---
 
